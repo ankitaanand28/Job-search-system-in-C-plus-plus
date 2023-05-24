@@ -24,4 +24,6 @@ In this project , I have used various data structures like vectors, map and sets
 <img width="500" alt="image" src="https://github.com/ankitaanand28/Job-search-system-in-C-plus-plus/assets/95133586/58f850d2-98af-4d41-baa7-853e10c66316">
 <br>
  <img width="456" alt="image" src="https://github.com/ankitaanand28/Job-search-system-in-C-plus-plus/assets/95133586/cce1de65-9406-485f-8e52-d640ab3a82d9">
+<br>
+  <img width="500" alt="image" src="https://github.com/ankitaanand28/Job-search-system-in-C-plus-plus/assets/95133586/d7d7b66d-ea68-4890-971c-ac1a7a7e2358">
 
